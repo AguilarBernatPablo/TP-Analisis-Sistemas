@@ -10,6 +10,10 @@ Análisis de sistemas (Unidad 5)
 
 ![Analisis](Clases_de_analisis.png "analisis")
 
+**Paquetes de análisis**:
+
+![Analisis](paquetes_analisis.png "análisis")
+
 ## **Atributos y métodos:**
 ### **Gestion reservas:**
 
@@ -120,9 +124,6 @@ Análisis de sistemas (Unidad 5)
 - ConsultarReservas()
 - ConsultarVehiculos()
 
-**Paquetes de análisis**:
-
-![Analisis](paquetes_analisis.png "análisis")
 
 ### REALIZACIONES DE CASOS DE USO:
 ### Gestionar reservas
